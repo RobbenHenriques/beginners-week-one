@@ -1,0 +1,26 @@
+
+<html>
+  <head> </head>
+
+  <h2>Hello World</h2>
+  <p><h4>Welcome to my site!</h4></p>
+<img src="./duck.jpg" alt="A local image" width="200px">
+  <p>
+I am currently learning to code with <href> Code First Girls</href>. Going over everything from how the
+internet works, to creating websites and version control with git. A lot to cover in only 8 weeks!
+Everyone should learn to code, here are some pretty good reasons why...
+  </p>
+HTML is cool
+CSS is cooler
+JS is the best
+  <br>
+What do you need to create a website?
+<p>Not much!
+<ul>A computer (always a good start)
+A text editor (I am using atom)
+A web browser (I am using chrome)
+Some HTML, CSS and JS </ul>
+</p>
+  <br>
+Follow my progress on <href>github</href>
+</hmtl>
